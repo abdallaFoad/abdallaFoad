@@ -1,6 +1,5 @@
-### Hi I'm Abdalla , 👋
 
-<h2 align="center" width="200"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Abdalla <h2>
+<h2 align="center" width="200"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Abdalla 👋<h2>
 
 
 
